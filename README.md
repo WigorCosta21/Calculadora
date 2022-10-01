@@ -23,7 +23,7 @@
 
 Calculadora desenvolvida em javaScript, onde pode ser executada algumas funcionalidades.
 
-<h3>Operaçções</h3>
+<h3>Operações</h3>
 <p>-Soma</p>
 <p>-Subtração</p>
 <p>-Multiplicação</p>
